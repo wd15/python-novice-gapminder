@@ -53,3 +53,7 @@ vendor/
 .docker-vendor/
 Gemfile.lock
 .*history
+presentation/node_modules
+presentation/package.json
+presentation/package-lock.json
+*~

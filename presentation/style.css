@@ -1,0 +1,21 @@
+.slidev-layout.cover {
+    padding-right: 12rem !important;
+    padding-left: 12rem !important;
+}
+
+.slidev-layout.center {
+    padding-right: 12rem !important;
+    padding-left: 12rem !important;
+}
+
+.slidev-layout.end {
+    padding-right: 12rem !important;
+    padding-left: 12rem !important;
+}
+
+.slidev-layout.cover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.99)), url("https://files.software-carpentry.org/training-course/2014/04/concept-map_python-dictionary_jeremiah-lant.jpg") !important;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
