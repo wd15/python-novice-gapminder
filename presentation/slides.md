@@ -57,8 +57,10 @@ layout: center
 - It's a programming language - doesn't matter
 - Alternatives for science: Matlab, Mathematica, Julia, R, SAS
 - Alternatives for data science: Scala, JavaScript, Go
+- Easy to get started (but can be more tricky later)
 - Widely used in science / research
   - Good for interactive computing and literate programming
+    - Imperative (not functional, line by line sequential execution)
 - Widely used outside of science (web platforms, data science)
 - Number 1 on TIOBE popularity index (Python, C, C++), https://www.tiobe.com/tiobe-index/
 - What else: huge active community, many scientific libraries, high level, open
